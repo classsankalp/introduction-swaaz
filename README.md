@@ -15,4 +15,4 @@
 - Github username.
 - E-mail id.
 # Submission.
-## Open folder 'submission'->readme.md or else click [here](https://github.com/classsankalp/prastice/tree/master/submission)
+## click [here](https://github.com/classsankalp/prastice/tree/master/submission)
